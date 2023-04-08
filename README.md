@@ -12,6 +12,7 @@ It's a maze game :)
   <li>My own object (the maze walls are an object made in other software)</li>
   <li>Flashlight, +1 spooky</li>
 </ol>
+
 ## References
 Music - https://www.youtube.com/watch?v=5bn3Jmvep1k&ab_channel=xDeviruchi
 

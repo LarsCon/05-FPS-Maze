@@ -1,6 +1,7 @@
-[gd_scene load_steps=4 format=2]
+[gd_scene load_steps=5 format=2]
 
 [ext_resource path="res://Player/Player.gd" type="Script" id=1]
+[ext_resource path="res://Assets/walk.mp3" type="AudioStream" id=2]
 
 [sub_resource type="CapsuleShape" id=4]
 radius = 0.5
@@ -26,3 +27,9 @@ transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 2, 0 )
 
 [node name="Camera" type="Camera" parent="Pivot"]
 current = true
+
+[node name="SpotLight" type="SpotLight" parent="Pivot"]
+light_energy = 1.557
+
+[node name="walk" type="AudioStreamPlayer" parent="."]
+stream = ExtResource( 2 )

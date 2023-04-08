@@ -1,4 +1,4 @@
-# Bill's Maze Adventure
+# Maze Adventure Game
 As you stand before the looming walls of the maze, you feel a rush of excitement and anticipation. The twisting paths and towering walls before you seem to hold infinite possibilities, beckoning you to enter and discover what lies within. With a deep breath, you step forward into the labyrinth, ready to face whatever challenges and wonders await you on your journey through the maze.
 
 ## Description
